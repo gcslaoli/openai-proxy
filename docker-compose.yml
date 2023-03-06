@@ -1,0 +1,5 @@
+version: '3'
+services:
+  openai-proxy:
+    build: .
+    image: gcslaoli/openai-proxy:latest
