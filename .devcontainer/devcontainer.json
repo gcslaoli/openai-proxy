@@ -1,5 +1,5 @@
 {
-  "image": "gcslaoli/cool-admin-codespace:latest",
+  "image": "/cool-admin-codespace:latest",
   "mounts": [
     {
       "source": "${localWorkspaceFolder}/.devcontainer/daemon.json",
