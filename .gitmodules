@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
-	url = git@github.com:gcslaoli/openai-proxy-backend.git
+	url = https://github.com/gcslaoli/openai-proxy-backend.git
 [submodule "frontend"]
 	path = frontend
-	url = git@github.com:gcslaoli/openai-proxy-frontend.git
+	url = https://github.com/gcslaoli/openai-proxy-frontend.git
