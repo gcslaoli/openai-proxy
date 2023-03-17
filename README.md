@@ -6,8 +6,8 @@
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=609520687)
 
-## 子仓库拉取
+## 初始化（仅执行一次）
 
 ```bash
-git submodule update --init --recursive
+./init.sh
 ```

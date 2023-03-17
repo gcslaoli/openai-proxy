@@ -45,3 +45,9 @@ git remote set-url --push origin git@github.com:gcslaoli/openai-proxy-frontend.g
 cd $BASEDIR/frontend
 yarn install
 
+# 启动mysql
+make mysql-up
+
+# 启动redis
+make redis-up
+
