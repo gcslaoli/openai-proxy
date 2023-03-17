@@ -46,8 +46,10 @@ cd $BASEDIR/frontend
 yarn install
 
 # 启动mysql
+cd $BASEDIR
 make mysql-up
 
 # 启动redis
+cd $BASEDIR
 make redis-up
 
